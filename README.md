@@ -30,7 +30,7 @@ linkedin_header.png
 
 ## Output Example
 
-<img width="1584" height="396" alt="linkedin_header" src="https://github.com/user-attachments/assets/e93f47f9-1342-4016-a178-45cffb78d5d8" />
+<img width="1584" height="396" alt="linkedin_header" src="https://github.com/user-attachments/assets/27f3a791-5136-4bb2-8789-375da306bb8e" />
 
 
 ## Notes
