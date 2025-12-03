@@ -8,7 +8,7 @@ OUTPUT = "linkedin_header.png"
 code = open(os.path.abspath(__file__), "r", encoding="utf-8", errors="replace").read()
 
 # create canvas
-img = Image.new("RGB", (WIDTH, HEIGHT), "#0B1020"); draw = ImageDraw.Draw(img)
+img = Image.new("RGB", (WIDTH, HEIGHT), "#1C1E21"); draw = ImageDraw.Draw(img)
 font = ImageFont.truetype("consola.ttf", 12)
 char_w, line_h = 8, 18
 lines = code.splitlines()
